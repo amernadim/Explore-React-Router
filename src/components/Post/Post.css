@@ -1,0 +1,9 @@
+.post {
+  border: 2px solid red;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+}
+.post button {
+  margin-left: 10px;
+}
